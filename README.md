@@ -1,16 +1,16 @@
-Hi ![] <center My name is Ninad Deshmukh />
+Hi![] My name is Ninad Deshmukh
 ======================================================================================================================================
 
-Frontend Devleoper
+Frontend Developer
 ------------------
 
 I'm a Frontend Developer who loves to explore new things!
 
-* 🌍  I'm based in Nagpur
+* 🌍  I'm based in Nagpur, Maharashtra, India.
 * ✉️  You can contact me at [coding.hustler22@gmail.com](mailto:coding.hustler22@gmail.com)
 * 🧠  I'm learning React, Nextjs and Typescript.
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I'm secretly Spiderman, but don't tell Anyone
+* 🤝  I'm open to collaborating on Projects.
+* ⚡  I'm secretly Spiderman but don't tell Anyone.
 
 ### Skills
 
